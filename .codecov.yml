@@ -1,0 +1,10 @@
+coverage:
+  status:
+    project:
+      default: off
+      minimum: # minimum target of coverage needed to pass the check
+        target: 60%
+      decrement: # maximum decrement of coverage allowed
+        target: auto
+        threshold: 0.5%
+        if_not_found: success

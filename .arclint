@@ -1,0 +1,32 @@
+{
+    "linters": {
+        "oclint": {
+            "type": "oclint",
+            "include": "(\\.(m|h|swift)$)",
+            "exclude": [
+                "(Tests/*)",
+                "(Example/*)"
+              ]
+        },
+        "sources-prefix": {
+            "type": "filenameregexp",
+            "regexp": "/^M.*/",
+            "include": "(\\.(m|h)$)",
+            "exclude": [
+                "/\\+/",
+                "/main\\.m/",
+                "/.*XCTestCase_.*/",
+                "(Example/*)"
+                ]
+        },
+        "cpd": {
+            "type": "cpd-cli",
+            "include": "(\\.(m|h)$)",
+            "language": "swift",
+            "paths": [
+                "LibraryComponents",
+                "Tests"
+            ]
+        }
+    }
+}
