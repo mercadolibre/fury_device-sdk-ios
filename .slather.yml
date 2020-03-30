@@ -1,0 +1,10 @@
+coverage_service: cobertura_xml
+scheme: devices-Example
+xcodeproj: Example/devices.xcodeproj
+workspace: devices.xcworkspace
+source_directory: LibraryComponents
+output_directory: coverage
+ignore:
+ - ../**/*/Xcode*
+ - Example/*
+ - Pods/*

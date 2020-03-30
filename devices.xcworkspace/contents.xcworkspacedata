@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MercadoPagoDevicesSDK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ExampleSwift/ExampleSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ExampleObjC/ExampleObjC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
