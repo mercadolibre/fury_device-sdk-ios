@@ -4,5 +4,5 @@
         "/usr/local/opt/arc-lint"
     ],
     "xcodebuild.workspace": "devices.xcworkspace",
-    "xcodebuild.scheme": "devices-Example"
+    "xcodebuild.scheme": "testapp"
 }

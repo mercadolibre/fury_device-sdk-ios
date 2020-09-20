@@ -1,5 +1,5 @@
 coverage_service: cobertura_xml
-scheme: devices-Example
+scheme: testapp
 xcodeproj: Example/devices.xcodeproj
 workspace: devices.xcworkspace
 source_directory: LibraryComponents
