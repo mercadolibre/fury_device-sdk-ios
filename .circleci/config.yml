@@ -5,6 +5,9 @@ parameters:
     type: enum
     enum: ["ci", "build", "default"]
     default: "default"
+  build_context:
+      type: string
+      default: ''
 orbs:
   meli: mercadolibre/ios@volatile
 default-workflow: &defaultWorkflow
