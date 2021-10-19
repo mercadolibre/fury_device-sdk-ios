@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MercadoPagoDevicesSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MercadoPagoDevicesSDK'
 
   s.homepage         = 'https://github.com/mercadolibre/fury_device-sdk-ios'
