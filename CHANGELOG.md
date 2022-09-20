@@ -1,3 +1,7 @@
+# Xcode Migration
+## Migrated
+- Migration to new Xcode 14
+
 # v1.0.1
 ### Fixed
 - Updated dependencies
