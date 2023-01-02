@@ -76,3 +76,4 @@ Devices Team, device@mercadolibre.com
 ## License
 
 Mercado Pago's Devices SDK is available under the MIT license. See the LICENSE file for more info.
+test
